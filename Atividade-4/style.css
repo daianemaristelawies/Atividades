@@ -1,0 +1,71 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    margin: 41px;
+}
+
+.card1 {
+    width: 300px;
+    height: 400px;
+    background-color: rgba(245, 139, 0, 0.897);
+    border-radius: 10px 0px 0px 10px;
+}
+
+.card2 {
+    width: 300px;
+    height: 400px;
+    background-color: teal;
+}
+
+.card3 {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(5, 72, 77);
+    border-radius: 0px 10px 10px 0px;
+}
+
+.f {
+    color: #fff;
+}
+
+.g {
+    color: #fff;
+}
+
+.h {
+    color: #fff;
+}
+
+.er {
+    color: #fff;
+}
+
+.tr {
+    color: #fff;
+}
+
+.ur {
+    color: #fff;
+}
+
+.qa {
+    color: #fff;
+}
+
+.as {
+    color: #fff;
+}
+
+.cv {
+    color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 2px solid #fff;
+    padding: 10px;
+    margin: 50px;
+} 

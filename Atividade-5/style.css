@@ -1,0 +1,53 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(14, 144, 167, 0.897);
+}
+
+
+.container {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.container .header {
+    background-image: url(images/bg-pattern-card.svg);
+    height: 200px;
+    width: 400px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.div-img {
+    text-align: center;
+    margin-top: -60px;
+}
+
+img {
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+.container {
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+span, .cidade{
+    color: rgb(136, 136, 136);
+}
+
+.infos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.info .mm {
+    color: rgb(136, 136, 136);
+}
+
+.line {
+    border: 1px solid lightgray;
+    background-color: rgb(136, 136, 136);
+}
